@@ -9,7 +9,6 @@ This project demonstrates a scalable and secure AWS architecture designed for a 
 The architecture consists of the following components:
 
 ### Frontend Layer
-- **CloudFront**: Global CDN for content delivery
 - **S3**: Static website hosting for frontend assets
 
 ### Application Layer
@@ -18,10 +17,8 @@ The architecture consists of the following components:
 
 ### Data Layer
 - **RDS (PostgreSQL)**: Managed relational database with Multi-AZ deployment
-- **ElastiCache (Redis)**: In-memory caching for improved performance
-
+- 
 ### Security
-- **WAF & Shield**: Protection against web attacks
 - **Security Groups & NACLs**: Network-level security
 - **IAM**: Fine-grained access control
 
