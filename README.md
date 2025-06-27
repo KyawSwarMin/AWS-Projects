@@ -4,7 +4,7 @@ This project demonstrates a scalable and secure AWS architecture designed for a 
 
 ## Architecture Overview
 
-![AWS Architecture Diagram](https://miro.medium.com/max/1400/1*3v8k5K1_7Y9Q5Q5Q5Q5Q5Q.png)
+![AWS Architecture Diagram](images/AWS.jpg)
 
 The architecture consists of the following components:
 
