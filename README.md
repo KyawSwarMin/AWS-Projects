@@ -17,7 +17,7 @@ The architecture consists of the following components:
 
 ### Data Layer
 - **RDS (PostgreSQL)**: Managed relational database with Multi-AZ deployment
-- 
+  
 ### Security
 - **Security Groups & NACLs**: Network-level security
 - **IAM**: Fine-grained access control
