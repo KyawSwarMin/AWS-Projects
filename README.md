@@ -35,21 +35,3 @@ The architecture consists of the following components:
 5. **Set up Application Load Balancer**
 6. **Configure CloudFront with S3 origin**
 7. **Implement monitoring and alerts**
-
-## Best Practices Implemented
-
-- Multi-AZ deployment for high availability
-- Infrastructure as Code (IaC) using Terraform
-- Encryption at rest and in transit
-- Regular automated backups
-- Horizontal scaling for variable loads
-
-## Prerequisites
-
-- AWS account with appropriate permissions
-- Terraform installed (for infrastructure provisioning)
-- Basic understanding of AWS services
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
